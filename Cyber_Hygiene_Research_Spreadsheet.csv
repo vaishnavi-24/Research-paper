@@ -1,0 +1,85 @@
+Sheet Name,Column/Parameter,Description,Example/Options
+Literature Review Tracker,Paper ID,Unique identifier for each paper,"P001, P002, P003"
+Literature Review Tracker,Paper Title,Full title of the research paper,
+Literature Review Tracker,Authors,Names of all authors,
+Literature Review Tracker,Year of Publication,Year the paper was published,"2020, 2021, 2022, 2023"
+Literature Review Tracker,Journal/Conference Name,Where the paper was published,
+Literature Review Tracker,DOI/Link,Digital Object Identifier or URL,
+Literature Review Tracker,Research Type,Type of research conducted,"Survey, Case Study, Experimental, Review, Meta-Analysis"
+Literature Review Tracker,Key Focus Area,Main area of the research,"Cyber Hygiene Practices, Security Training, Awareness Programs, Privacy Impact, Behavioral Change"
+Literature Review Tracker,Key Findings,Summary of main findings,
+Literature Review Tracker,Methodology Used,Research methods employed,"Quantitative, Qualitative, Mixed Methods"
+Literature Review Tracker,Sample Size,Number of participants if applicable,
+Literature Review Tracker,Relevance Score,How relevant to your topic (1-5),
+Literature Review Tracker,Gaps Identified,Research gaps found in the paper,
+Literature Review Tracker,Citation,Formatted citation,"APA or IEEE format"
+Literature Review Tracker,Notes,Additional observations,
+
+Research Questions & Framework,Research Question Type,Primary or Secondary,
+Research Questions & Framework,Question Text,The actual research question,
+Research Questions & Framework,Objective ID,"Unique identifier (O1, O2, etc.)",
+Research Questions & Framework,Objective Description,What you aim to achieve,
+Research Questions & Framework,Success Criteria,How to measure achievement,
+Research Questions & Framework,Timeline,Expected completion time,
+Research Questions & Framework,Status,Current progress,"Not Started, In Progress, Completed"
+
+Cyber Hygiene Practices,Practice Category,"Password Management, Authentication, Updates, Phishing, Device Security, Data Protection, Physical Security",
+Cyber Hygiene Practices,Specific Practice,Detailed practice name,
+Cyber Hygiene Practices,Importance Level,"High, Medium, Low",
+Cyber Hygiene Practices,Current Adoption Rate,Percentage of users following,
+Cyber Hygiene Practices,Barriers to Adoption,Obstacles preventing adoption,
+Cyber Hygiene Practices,Best Practice Recommendation,Recommended approach,
+Cyber Hygiene Practices,Measurement Method,How to assess compliance,
+
+Training Methods Analysis,Training Method,"Online courses, Workshops, Simulated Phishing, Gamification, Microlearning, Videos, Interactive Scenarios",
+Training Methods Analysis,Delivery Format,"Self-paced, Instructor-led, Hybrid, Just-in-time",
+Training Methods Analysis,Frequency,"One-time, Quarterly, Monthly, Continuous",
+Training Methods Analysis,Duration,"Short (<30 min), Medium (30-60 min), Long (>60 min)",
+Training Methods Analysis,Completion Rate,Percentage who complete,
+Training Methods Analysis,Pre-training Score,Knowledge before training,
+Training Methods Analysis,Post-training Score,Knowledge after training,
+Training Methods Analysis,Behavioral Change,Observable changes in behavior,
+Training Methods Analysis,Retention Period,How long knowledge retained,"3 months, 6 months, 12 months",
+Training Methods Analysis,Cost per Employee,Financial investment required,
+Training Methods Analysis,ROI,Return on investment,
+Training Methods Analysis,Pros,Advantages of the method,
+Training Methods Analysis,Cons,Disadvantages of the method,
+Training Methods Analysis,Overall Effectiveness Rating,Rating 1-5,
+
+Survey Questions - Individuals,Question Number,Sequential numbering,
+Survey Questions - Individuals,Question Text,The actual question,
+Survey Questions - Individuals,Question Type,"Scale (1-5), Yes/No, Multiple Choice, Open-ended",
+Survey Questions - Individuals,Response Options,Available answers if applicable,
+Survey Questions - Individuals,Purpose,What this question measures,
+
+Survey Questions - Organizations,Question Number,Sequential numbering,
+Survey Questions - Organizations,Question Text,The actual question,
+Survey Questions - Organizations,Question Type,"Scale (1-5), Yes/No, Multiple Choice, Open-ended",
+Survey Questions - Organizations,Response Options,Available answers if applicable,
+Survey Questions - Organizations,Purpose,What this question measures,
+
+Data Analysis & Metrics,Metric Category,"Awareness, Behavioral, Incident, Compliance, ROI",
+Data Analysis & Metrics,Specific Metric,Name of the metric,
+Data Analysis & Metrics,Measurement Method,How to measure,
+Data Analysis & Metrics,Baseline Value,Starting measurement,
+Data Analysis & Metrics,Target Value,Goal to achieve,
+Data Analysis & Metrics,Current Value,Latest measurement,
+Data Analysis & Metrics,Trend,"Improving, Declining, Stable",
+Data Analysis & Metrics,Data Source,Where data comes from,
+
+Gaps & Recommendations,Gap ID,"Unique identifier (G1, G2, etc.)",
+Gaps & Recommendations,Current Gap Identified,Description of the gap,
+Gaps & Recommendations,Impact Level,"High, Medium, Low",
+Gaps & Recommendations,Affected Area,What is impacted,
+Gaps & Recommendations,Proposed Solution,Recommended fix,
+Gaps & Recommendations,Implementation Difficulty,"Easy, Moderate, Difficult",
+Gaps & Recommendations,Expected Benefit,Anticipated improvement,
+Gaps & Recommendations,Priority,Ranking 1-5 (1=highest),
+Gaps & Recommendations,References/Evidence,Supporting sources,
+
+Timeline & Milestones,Week Number,Week 1-8 or specific dates,
+Timeline & Milestones,Task,Activity to complete,
+Timeline & Milestones,Deliverable,Expected output,
+Timeline & Milestones,Status,"Not Started, In Progress, Completed, Delayed",
+Timeline & Milestones,Owner,Person responsible,
+Timeline & Milestones,Notes,Additional information,
